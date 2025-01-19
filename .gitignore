@@ -1,0 +1,15 @@
+# Entornos y caches
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Archivos temporales de trabajo
+*.tmp
+*.bak
+~$*
+.DS_Store
+Thumbs.db
+
+# Salidas locales de validación
+reportes/
