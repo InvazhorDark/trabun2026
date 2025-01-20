@@ -1,0 +1,9 @@
+sector,codigo,descripcion
+Educación,01,Entidades del sector educación según el Clasificador Presupuestal 2024
+Salud,02,Entidades del sector salud según el Clasificador Presupuestal 2024
+Infraestructura,03,Entidades del sector infraestructura según el Clasificador Presupuestal 2024
+Defensa,04,Entidades del sector defensa según el Clasificador Presupuestal 2024
+Justicia,05,Entidades del sector justicia según el Clasificador Presupuestal 2024
+Agricultura,06,Entidades del sector agricultura según el Clasificador Presupuestal 2024
+Gobierno,07,Entidades del sector gobierno según el Clasificador Presupuestal 2024
+Deuda pública,08,Entidades del sector deuda pública según el Clasificador Presupuestal 2024
