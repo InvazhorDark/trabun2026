@@ -1,0 +1,19 @@
+name: Validación de datos
+
+on:
+  push:
+    paths:
+      - 'datasets/**'
+      - 'scripts/**'
+  pull_request:
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validar archivos CSV
+        run: python3 scripts/validar_csv.py datasets/
