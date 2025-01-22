@@ -3,3 +3,4 @@ DNE-0001,boletin-economico,boletin-economico/2025/semana-04.csv,semanal,CSV
 DNE-0002,censo,censo/censo-2024-provincias.csv,decenal,CSV
 DNE-0003,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
 DNE-0004,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
+DNE-0005,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
