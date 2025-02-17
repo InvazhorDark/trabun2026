@@ -3,14 +3,15 @@ DNE-0001,boletin-economico,boletin-economico/2025/semana-04.csv,semanal,CSV
 DNE-0002,boletin-economico,boletin-economico/2025/semana-05.csv,semanal,CSV
 DNE-0003,boletin-economico,boletin-economico/2025/semana-06.csv,semanal,CSV
 DNE-0004,boletin-economico,boletin-economico/2025/semana-07.csv,semanal,CSV
-DNE-0005,censo,censo/censo-2024-provincias.csv,decenal,CSV
-DNE-0006,comercio-exterior,comercio-exterior/2024-12.csv,mensual,CSV
-DNE-0007,comercio-exterior,comercio-exterior/2025-01.csv,mensual,CSV
-DNE-0008,indicadores,indicadores/2025-01.json,mensual,JSON
-DNE-0009,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
-DNE-0010,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
-DNE-0011,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
-DNE-0012,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
-DNE-0013,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
-DNE-0014,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
-DNE-0015,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
+DNE-0005,boletin-economico,boletin-economico/2025/semana-08.csv,semanal,CSV
+DNE-0006,censo,censo/censo-2024-provincias.csv,decenal,CSV
+DNE-0007,comercio-exterior,comercio-exterior/2024-12.csv,mensual,CSV
+DNE-0008,comercio-exterior,comercio-exterior/2025-01.csv,mensual,CSV
+DNE-0009,indicadores,indicadores/2025-01.json,mensual,JSON
+DNE-0010,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
+DNE-0011,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
+DNE-0012,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
+DNE-0013,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
+DNE-0014,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
+DNE-0015,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
+DNE-0016,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
