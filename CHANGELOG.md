@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2025-02-21
+
+- Registro mercantil: publicado el lote 0008.
+
 ## 2025-02-16
 
 - Comercio exterior: nuevo corte mensual publicado.
