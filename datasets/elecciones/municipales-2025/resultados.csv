@@ -1,0 +1,86 @@
+codigo_provincia,municipio,partido,votos,porcentaje,electo
+VAL,San Teodoro,Alianza Progresista,70985,56.55,si
+VAL,San Teodoro,Partido Republicano de Aztravia,44211,35.22,no
+VAL,San Teodoro,Coalición Renovadora,10320,8.22,no
+ALB,Puerto Albán,Alianza Progresista,23404,11.74,no
+ALB,Puerto Albán,Unión Cívica Provincial,59214,29.7,no
+ALB,Puerto Albán,Frente Social Independiente,18744,9.4,no
+ALB,Puerto Albán,Coalición Renovadora,26547,13.32,no
+ALB,Puerto Albán,Movimiento Verde del Delta,71460,35.84,si
+NER,Villa Nerea,Coalición Renovadora,34147,14.13,no
+NER,Villa Nerea,Alianza Progresista,30404,12.58,no
+NER,Villa Nerea,Movimiento Verde del Delta,93257,38.59,si
+NER,Villa Nerea,Partido Republicano de Aztravia,37031,15.32,no
+NER,Villa Nerea,Unión Cívica Provincial,46835,19.38,no
+TER,Teruán,Partido Republicano de Aztravia,16490,6.38,no
+TER,Teruán,Frente Social Independiente,94302,36.47,si
+TER,Teruán,Coalición Renovadora,61393,23.74,no
+TER,Teruán,Unión Cívica Provincial,86408,33.41,no
+MIR,Miravel,Partido Republicano de Aztravia,24580,13.41,no
+MIR,Miravel,Alianza Progresista,25491,13.91,no
+MIR,Miravel,Frente Social Independiente,67615,36.89,si
+MIR,Miravel,Coalición Renovadora,65614,35.8,no
+COR,Santa Cruz de Cordelia,Alianza Progresista,50312,25.59,no
+COR,Santa Cruz de Cordelia,Partido Republicano de Aztravia,57563,29.27,no
+COR,Santa Cruz de Cordelia,Unión Cívica Provincial,80412,40.89,si
+COR,Santa Cruz de Cordelia,Frente Social Independiente,8350,4.25,no
+OST,Ostende,Frente Social Independiente,29769,13.15,no
+OST,Ostende,Alianza Progresista,35493,15.68,no
+OST,Ostende,Partido Republicano de Aztravia,21108,9.33,no
+OST,Ostende,Movimiento Verde del Delta,50486,22.3,no
+OST,Ostende,Unión Cívica Provincial,89492,39.54,si
+PIN,Pinar Grande,Alianza Progresista,92292,40.94,si
+PIN,Pinar Grande,Partido Republicano de Aztravia,83731,37.14,no
+PIN,Pinar Grande,Unión Cívica Provincial,49435,21.93,no
+SAL,Las Salinas,Frente Social Independiente,7653,5.04,no
+SAL,Las Salinas,Movimiento Verde del Delta,5246,3.46,no
+SAL,Las Salinas,Unión Cívica Provincial,92332,60.82,si
+SAL,Las Salinas,Alianza Progresista,43868,28.89,no
+SAL,Las Salinas,Partido Republicano de Aztravia,2724,1.79,no
+BRE,Monte Breña,Alianza Progresista,94979,42.35,si
+BRE,Monte Breña,Partido Republicano de Aztravia,43518,19.4,no
+BRE,Monte Breña,Movimiento Verde del Delta,70764,31.55,no
+BRE,Monte Breña,Frente Social Independiente,15002,6.69,no
+VAL,El Rosal,Alianza Progresista,68292,23.36,no
+VAL,El Rosal,Unión Cívica Provincial,87404,29.89,no
+VAL,El Rosal,Coalición Renovadora,13034,4.46,no
+VAL,El Rosal,Frente Social Independiente,91765,31.39,si
+VAL,El Rosal,Movimiento Verde del Delta,31882,10.9,no
+ALB,Bahía Serena,Coalición Renovadora,44561,33.83,si
+ALB,Bahía Serena,Unión Cívica Provincial,32191,24.44,no
+ALB,Bahía Serena,Movimiento Verde del Delta,32408,24.61,no
+ALB,Bahía Serena,Partido Republicano de Aztravia,22548,17.12,no
+NER,Alto Verdún,Unión Cívica Provincial,68001,37.82,no
+NER,Alto Verdún,Frente Social Independiente,70030,38.94,si
+NER,Alto Verdún,Movimiento Verde del Delta,16354,9.09,no
+NER,Alto Verdún,Alianza Progresista,25433,14.14,no
+TER,La Encina,Unión Cívica Provincial,64399,40.09,si
+TER,La Encina,Partido Republicano de Aztravia,60476,37.65,no
+TER,La Encina,Alianza Progresista,6079,3.78,no
+TER,La Encina,Movimiento Verde del Delta,12251,7.63,no
+TER,La Encina,Coalición Renovadora,17439,10.86,no
+MIR,Puerto Escondido,Movimiento Verde del Delta,33158,19.85,no
+MIR,Puerto Escondido,Coalición Renovadora,94577,56.63,si
+MIR,Puerto Escondido,Partido Republicano de Aztravia,39282,23.52,no
+COR,San Mateo de Teruán,Unión Cívica Provincial,27976,11.99,no
+COR,San Mateo de Teruán,Coalición Renovadora,27140,11.63,no
+COR,San Mateo de Teruán,Frente Social Independiente,38171,16.36,no
+COR,San Mateo de Teruán,Movimiento Verde del Delta,66448,28.48,no
+COR,San Mateo de Teruán,Alianza Progresista,73578,31.54,si
+OST,Villa Clara,Coalición Renovadora,7086,4.69,no
+OST,Villa Clara,Partido Republicano de Aztravia,64688,42.81,si
+OST,Villa Clara,Unión Cívica Provincial,44171,29.23,no
+OST,Villa Clara,Alianza Progresista,15290,10.12,no
+OST,Villa Clara,Frente Social Independiente,19882,13.16,no
+PIN,Nueva Esperanza,Alianza Progresista,22127,7.16,no
+PIN,Nueva Esperanza,Movimiento Verde del Delta,88319,28.58,si
+PIN,Nueva Esperanza,Partido Republicano de Aztravia,87950,28.46,no
+PIN,Nueva Esperanza,Frente Social Independiente,67192,21.74,no
+PIN,Nueva Esperanza,Unión Cívica Provincial,43423,14.05,no
+SAL,Los Olivos,Movimiento Verde del Delta,14645,17.22,no
+SAL,Los Olivos,Partido Republicano de Aztravia,41124,48.37,si
+SAL,Los Olivos,Alianza Progresista,29255,34.41,no
+BRE,Punta Faro,Frente Social Independiente,3824,2.83,no
+BRE,Punta Faro,Alianza Progresista,45800,33.95,no
+BRE,Punta Faro,Movimiento Verde del Delta,37414,27.73,no
+BRE,Punta Faro,Partido Republicano de Aztravia,47861,35.48,si

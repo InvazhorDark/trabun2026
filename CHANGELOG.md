@@ -2,6 +2,11 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2025-03-02
+
+- Comercio exterior: nuevo corte mensual publicado.
+- Elecciones municipales 2025: resultados consolidados por municipio.
+
 ## 2025-02-21
 
 - Registro mercantil: publicado el lote 0008.
