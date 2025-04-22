@@ -1,0 +1,81 @@
+flujo,capitulo,descripcion,socio,valor_fob_musd,peso_neto_t,fecha_corte
+exportacion,09,"Café, té, yerba mate y especias",México,29008.9,193382.5,2025-03-31
+exportacion,09,"Café, té, yerba mate y especias",Estados Unidos,12248.7,16450.1,2025-03-31
+exportacion,09,"Café, té, yerba mate y especias",Resto del mundo,37911.4,43161.9,2025-03-31
+exportacion,09,"Café, té, yerba mate y especias",Unión Europea,10791.0,43376.3,2025-03-31
+exportacion,27,Combustibles minerales,Mercosur,44532.3,201133.7,2025-03-31
+exportacion,27,Combustibles minerales,Estados Unidos,11919.9,102629.4,2025-03-31
+exportacion,27,Combustibles minerales,Resto del mundo,30523.9,51256.7,2025-03-31
+exportacion,27,Combustibles minerales,Brasil,39254.0,311520.0,2025-03-31
+exportacion,08,Frutas y frutos comestibles,China,2031.4,8731.7,2025-03-31
+exportacion,08,Frutas y frutos comestibles,Resto del mundo,7809.9,41356.1,2025-03-31
+exportacion,08,Frutas y frutos comestibles,Brasil,26074.5,39560.5,2025-03-31
+exportacion,08,Frutas y frutos comestibles,Mercosur,46365.4,358035.1,2025-03-31
+exportacion,71,"Perlas, piedras y metales preciosos",Mercosur,31277.1,147932.3,2025-03-31
+exportacion,71,"Perlas, piedras y metales preciosos",Resto del mundo,26106.1,42177.3,2025-03-31
+exportacion,71,"Perlas, piedras y metales preciosos",China,1878.0,11704.0,2025-03-31
+exportacion,71,"Perlas, piedras y metales preciosos",Brasil,19317.1,52248.3,2025-03-31
+exportacion,84,Máquinas y aparatos mecánicos,China,2073.6,16773.9,2025-03-31
+exportacion,84,Máquinas y aparatos mecánicos,Estados Unidos,13084.7,70893.3,2025-03-31
+exportacion,84,Máquinas y aparatos mecánicos,Brasil,32218.2,101213.4,2025-03-31
+exportacion,84,Máquinas y aparatos mecánicos,México,36334.4,307806.1,2025-03-31
+exportacion,87,Vehículos automóviles,México,21367.4,107333.9,2025-03-31
+exportacion,87,Vehículos automóviles,Resto del mundo,37131.5,232216.2,2025-03-31
+exportacion,87,Vehículos automóviles,Mercosur,39328.2,253412.4,2025-03-31
+exportacion,87,Vehículos automóviles,Japón,3425.0,30493.3,2025-03-31
+exportacion,30,Productos farmacéuticos,Resto del mundo,5806.8,6090.2,2025-03-31
+exportacion,30,Productos farmacéuticos,Japón,14294.5,87501.7,2025-03-31
+exportacion,30,Productos farmacéuticos,China,4469.0,8717.9,2025-03-31
+exportacion,30,Productos farmacéuticos,Brasil,2479.7,16448.5,2025-03-31
+exportacion,10,Cereales,Estados Unidos,40499.6,329837.8,2025-03-31
+exportacion,10,Cereales,México,3296.3,8729.6,2025-03-31
+exportacion,10,Cereales,Mercosur,21112.7,9014.0,2025-03-31
+exportacion,10,Cereales,Brasil,47609.5,245165.4,2025-03-31
+exportacion,39,Plásticos y sus manufacturas,Brasil,8454.3,72024.5,2025-03-31
+exportacion,39,Plásticos y sus manufacturas,México,4586.2,38790.9,2025-03-31
+exportacion,39,Plásticos y sus manufacturas,Resto del mundo,11676.3,32723.5,2025-03-31
+exportacion,39,Plásticos y sus manufacturas,Estados Unidos,14684.4,9324.9,2025-03-31
+exportacion,85,Máquinas y material eléctrico,Estados Unidos,4806.6,31737.9,2025-03-31
+exportacion,85,Máquinas y material eléctrico,Brasil,13613.1,68908.6,2025-03-31
+exportacion,85,Máquinas y material eléctrico,México,18619.4,123960.8,2025-03-31
+exportacion,85,Máquinas y material eléctrico,Mercosur,29917.3,24632.9,2025-03-31
+importacion,09,"Café, té, yerba mate y especias",Estados Unidos,47655.5,195582.1,2025-03-31
+importacion,09,"Café, té, yerba mate y especias",Unión Europea,6124.5,15343.7,2025-03-31
+importacion,09,"Café, té, yerba mate y especias",México,22713.5,204114.1,2025-03-31
+importacion,09,"Café, té, yerba mate y especias",China,45729.2,95298.2,2025-03-31
+importacion,27,Combustibles minerales,México,16480.8,13920.3,2025-03-31
+importacion,27,Combustibles minerales,Estados Unidos,16900.7,136278.4,2025-03-31
+importacion,27,Combustibles minerales,Japón,205.3,1019.1,2025-03-31
+importacion,27,Combustibles minerales,Brasil,4665.8,24868.2,2025-03-31
+importacion,08,Frutas y frutos comestibles,Resto del mundo,10927.2,60171.6,2025-03-31
+importacion,08,Frutas y frutos comestibles,México,20777.4,130976.8,2025-03-31
+importacion,08,Frutas y frutos comestibles,Brasil,46162.6,65612.4,2025-03-31
+importacion,08,Frutas y frutos comestibles,Unión Europea,5784.3,10263.5,2025-03-31
+importacion,71,"Perlas, piedras y metales preciosos",México,9808.9,45582.0,2025-03-31
+importacion,71,"Perlas, piedras y metales preciosos",Resto del mundo,40854.4,260641.1,2025-03-31
+importacion,71,"Perlas, piedras y metales preciosos",China,31281.3,182893.4,2025-03-31
+importacion,71,"Perlas, piedras y metales preciosos",Estados Unidos,23456.5,39953.7,2025-03-31
+importacion,84,Máquinas y aparatos mecánicos,Mercosur,8799.6,44021.2,2025-03-31
+importacion,84,Máquinas y aparatos mecánicos,China,25932.8,73557.0,2025-03-31
+importacion,84,Máquinas y aparatos mecánicos,Estados Unidos,45846.8,179158.2,2025-03-31
+importacion,84,Máquinas y aparatos mecánicos,Brasil,44818.6,159493.1,2025-03-31
+importacion,87,Vehículos automóviles,Mercosur,31378.2,73652.5,2025-03-31
+importacion,87,Vehículos automóviles,México,25781.6,56125.6,2025-03-31
+importacion,87,Vehículos automóviles,Unión Europea,34048.3,105890.4,2025-03-31
+importacion,87,Vehículos automóviles,China,2901.2,10275.0,2025-03-31
+importacion,30,Productos farmacéuticos,Estados Unidos,39082.9,159157.1,2025-03-31
+importacion,30,Productos farmacéuticos,Brasil,2203.0,17171.8,2025-03-31
+importacion,30,Productos farmacéuticos,Japón,10567.3,93011.6,2025-03-31
+importacion,30,Productos farmacéuticos,Resto del mundo,29000.2,249784.5,2025-03-31
+importacion,10,Cereales,Estados Unidos,6732.5,55092.2,2025-03-31
+importacion,10,Cereales,Unión Europea,18946.2,55028.6,2025-03-31
+importacion,10,Cereales,Brasil,32597.6,78277.0,2025-03-31
+importacion,10,Cereales,Japón,22013.3,21533.9,2025-03-31
+importacion,39,Plásticos y sus manufacturas,Mercosur,38506.2,328128.6,2025-03-31
+importacion,39,Plásticos y sus manufacturas,Japón,47839.4,407887.0,2025-03-31
+importacion,39,Plásticos y sus manufacturas,México,37284.9,288845.7,2025-03-31
+importacion,39,Plásticos y sus manufacturas,Unión Europea,38691.2,56319.7,2025-03-31
+importacion,85,Máquinas y material eléctrico,China,24575.1,210143.2,2025-03-31
+importacion,85,Máquinas y material eléctrico,Mercosur,18134.5,96584.6,2025-03-31
+importacion,85,Máquinas y material eléctrico,Unión Europea,40495.0,141861.1,2025-03-31
+importacion,85,Máquinas y material eléctrico,Japón,8103.5,59020.8,2025-03-31
