@@ -21,27 +21,28 @@ DNE-0019,elecciones,elecciones/municipales-2025/resultados.csv,por evento,CSV
 DNE-0020,indicadores,indicadores/2025-01.json,mensual,JSON
 DNE-0021,indicadores,indicadores/2025-02.json,mensual,JSON
 DNE-0022,indicadores,indicadores/2025-03.json,mensual,JSON
-DNE-0023,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
-DNE-0024,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
-DNE-0025,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
-DNE-0026,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
-DNE-0027,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
-DNE-0028,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
-DNE-0029,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
-DNE-0030,registro-mercantil,registro-mercantil/altas/lote-0006.csv,por lote,CSV
-DNE-0031,registro-mercantil,registro-mercantil/altas/lote-0007.csv,por lote,CSV
-DNE-0032,registro-mercantil,registro-mercantil/altas/lote-0008.csv,por lote,CSV
-DNE-0033,registro-mercantil,registro-mercantil/altas/lote-0009.csv,por lote,CSV
-DNE-0034,registro-mercantil,registro-mercantil/altas/lote-0010.csv,por lote,CSV
-DNE-0035,registro-mercantil,registro-mercantil/altas/lote-0011.csv,por lote,CSV
-DNE-0036,registro-mercantil,registro-mercantil/altas/lote-0012.csv,por lote,CSV
-DNE-0037,registro-mercantil,registro-mercantil/altas/lote-0013.csv,por lote,CSV
-DNE-0038,registro-mercantil,registro-mercantil/altas/lote-0014.csv,por lote,CSV
-DNE-0039,registro-mercantil,registro-mercantil/altas/lote-0015.csv,por lote,CSV
-DNE-0040,registro-mercantil,registro-mercantil/altas/lote-0016.csv,por lote,CSV
-DNE-0041,registro-mercantil,registro-mercantil/altas/lote-0017.csv,por lote,CSV
-DNE-0042,registro-mercantil,registro-mercantil/altas/lote-0018.csv,por lote,CSV
-DNE-0043,registro-mercantil,registro-mercantil/altas/lote-0019.csv,por lote,CSV
-DNE-0044,registro-mercantil,registro-mercantil/altas/lote-0020.csv,por lote,CSV
-DNE-0045,registro-mercantil,registro-mercantil/altas/lote-0021.csv,por lote,CSV
-DNE-0046,registro-mercantil,registro-mercantil/altas/lote-0022.csv,por lote,CSV
+DNE-0023,indicadores,indicadores/2025-04.json,mensual,JSON
+DNE-0024,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
+DNE-0025,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
+DNE-0026,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
+DNE-0027,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
+DNE-0028,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
+DNE-0029,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
+DNE-0030,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
+DNE-0031,registro-mercantil,registro-mercantil/altas/lote-0006.csv,por lote,CSV
+DNE-0032,registro-mercantil,registro-mercantil/altas/lote-0007.csv,por lote,CSV
+DNE-0033,registro-mercantil,registro-mercantil/altas/lote-0008.csv,por lote,CSV
+DNE-0034,registro-mercantil,registro-mercantil/altas/lote-0009.csv,por lote,CSV
+DNE-0035,registro-mercantil,registro-mercantil/altas/lote-0010.csv,por lote,CSV
+DNE-0036,registro-mercantil,registro-mercantil/altas/lote-0011.csv,por lote,CSV
+DNE-0037,registro-mercantil,registro-mercantil/altas/lote-0012.csv,por lote,CSV
+DNE-0038,registro-mercantil,registro-mercantil/altas/lote-0013.csv,por lote,CSV
+DNE-0039,registro-mercantil,registro-mercantil/altas/lote-0014.csv,por lote,CSV
+DNE-0040,registro-mercantil,registro-mercantil/altas/lote-0015.csv,por lote,CSV
+DNE-0041,registro-mercantil,registro-mercantil/altas/lote-0016.csv,por lote,CSV
+DNE-0042,registro-mercantil,registro-mercantil/altas/lote-0017.csv,por lote,CSV
+DNE-0043,registro-mercantil,registro-mercantil/altas/lote-0018.csv,por lote,CSV
+DNE-0044,registro-mercantil,registro-mercantil/altas/lote-0019.csv,por lote,CSV
+DNE-0045,registro-mercantil,registro-mercantil/altas/lote-0020.csv,por lote,CSV
+DNE-0046,registro-mercantil,registro-mercantil/altas/lote-0021.csv,por lote,CSV
+DNE-0047,registro-mercantil,registro-mercantil/altas/lote-0022.csv,por lote,CSV

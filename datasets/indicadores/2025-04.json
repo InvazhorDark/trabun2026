@@ -1,0 +1,78 @@
+{
+  "periodo": "2025-04",
+  "fecha_corte": "2025-04-30",
+  "fuente": "DNE – Subdirección de Estadísticas Sociales",
+  "estado": "provisional",
+  "indicadores": [
+    {
+      "codigo_provincia": "VAL",
+      "tasa_desempleo": 9.2,
+      "pobreza_monetaria": 33.3,
+      "cobertura_salud": 88.8,
+      "matricula_escolar": 96.1
+    },
+    {
+      "codigo_provincia": "ALB",
+      "tasa_desempleo": 11.0,
+      "pobreza_monetaria": 24.1,
+      "cobertura_salud": 85.5,
+      "matricula_escolar": 92.3
+    },
+    {
+      "codigo_provincia": "NER",
+      "tasa_desempleo": 13.0,
+      "pobreza_monetaria": 27.1,
+      "cobertura_salud": 85.9,
+      "matricula_escolar": 96.0
+    },
+    {
+      "codigo_provincia": "TER",
+      "tasa_desempleo": 9.6,
+      "pobreza_monetaria": 28.6,
+      "cobertura_salud": 91.3,
+      "matricula_escolar": 95.8
+    },
+    {
+      "codigo_provincia": "MIR",
+      "tasa_desempleo": 11.9,
+      "pobreza_monetaria": 35.8,
+      "cobertura_salud": 85.1,
+      "matricula_escolar": 99.1
+    },
+    {
+      "codigo_provincia": "COR",
+      "tasa_desempleo": 10.3,
+      "pobreza_monetaria": 41.5,
+      "cobertura_salud": 87.5,
+      "matricula_escolar": 94.4
+    },
+    {
+      "codigo_provincia": "OST",
+      "tasa_desempleo": 10.0,
+      "pobreza_monetaria": 40.0,
+      "cobertura_salud": 96.9,
+      "matricula_escolar": 96.4
+    },
+    {
+      "codigo_provincia": "PIN",
+      "tasa_desempleo": 9.1,
+      "pobreza_monetaria": 22.9,
+      "cobertura_salud": 95.6,
+      "matricula_escolar": 95.0
+    },
+    {
+      "codigo_provincia": "SAL",
+      "tasa_desempleo": 14.2,
+      "pobreza_monetaria": 36.2,
+      "cobertura_salud": 86.8,
+      "matricula_escolar": 94.1
+    },
+    {
+      "codigo_provincia": "BRE",
+      "tasa_desempleo": 6.3,
+      "pobreza_monetaria": 35.0,
+      "cobertura_salud": 85.7,
+      "matricula_escolar": 91.9
+    }
+  ]
+}
