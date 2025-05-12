@@ -1,21 +1,21 @@
 sector,entidad,apropiado,comprometido,pagado,fecha_corte
-Educación,Ministerio de Educación,1243048,95843,93497,2025-01-20
-Educación,Universidad Nacional de Aztravia,7292737,563483,479414,2025-01-20
-Educación,Instituto de Formación Técnica,4791227,379093,288664,2025-01-20
-Salud,Ministerio de Salud,9351743,731592,608459,2025-01-20
-Salud,Red Hospitalaria Nacional,4698362,320072,277693,2025-01-20
-Salud,Instituto de Salud Pública,3747067,260127,223354,2025-01-20
-Infraestructura,Ministerio de Obras Públicas,7720893,596808,577360,2025-01-20
-Infraestructura,Agencia Nacional de Vías,5796100,404913,297996,2025-01-20
-Infraestructura,Autoridad Portuaria,8900937,649620,630853,2025-01-20
-Defensa,Ministerio de Defensa,432031,32424,23798,2025-01-20
-Defensa,Policía Nacional,1726088,123334,89886,2025-01-20
-Justicia,Ministerio de Justicia,2218924,162329,133369,2025-01-20
-Justicia,Consejo de la Judicatura,9681687,793384,759930,2025-01-20
-Justicia,Instituto Penitenciario,4135899,342696,316160,2025-01-20
-Agricultura,Ministerio de Agricultura,9609431,796006,619114,2025-01-20
-Agricultura,Instituto Agrario de Aztravia,6531918,457230,408529,2025-01-20
-Gobierno,Presidencia de la República,989680,72135,57908,2025-01-20
-Gobierno,Ministerio del Interior,5008654,419368,388176,2025-01-20
-Gobierno,Dirección Nacional de Estadística,4624563,354579,256438,2025-01-20
-Deuda pública,Tesoro Nacional,4799225,367062,357291,2025-01-20
+Educación,Ministerio de Educación,4994400,2316975,1629152,2025-05-12
+Educación,Universidad Nacional de Aztravia,5929132,2723978,2412127,2025-05-12
+Educación,Instituto de Formación Técnica,5320607,2589811,2273903,2025-05-12
+Salud,Ministerio de Salud,9060982,4430051,3295682,2025-05-12
+Salud,Red Hospitalaria Nacional,316779,135305,115347,2025-05-12
+Salud,Instituto de Salud Pública,3574554,1617604,1472049,2025-05-12
+Infraestructura,Ministerio de Obras Públicas,6970507,2881330,2099802,2025-05-12
+Infraestructura,Agencia Nacional de Vías,6750211,3047421,2965363,2025-05-12
+Infraestructura,Autoridad Portuaria,2084334,892089,859112,2025-05-12
+Defensa,Ministerio de Defensa,3127909,1421464,1337644,2025-05-12
+Defensa,Policía Nacional,2018633,836075,657453,2025-05-12
+Justicia,Ministerio de Justicia,3920067,1892479,1542631,2025-05-12
+Justicia,Consejo de la Judicatura,9194776,4344777,3192110,2025-05-12
+Justicia,Instituto Penitenciario,2127225,925424,681421,2025-05-12
+Agricultura,Ministerio de Agricultura,1443238,584805,440419,2025-05-12
+Agricultura,Instituto Agrario de Aztravia,2288894,1021298,905199,2025-05-12
+Gobierno,Presidencia de la República,4407927,1963111,1632210,2025-05-12
+Gobierno,Ministerio del Interior,1783719,861535,731581,2025-05-12
+Gobierno,Dirección Nacional de Estadística,6592496,2649202,2021684,2025-05-12
+Deuda pública,Tesoro Nacional,5930712,2544572,2186995,2025-05-12
