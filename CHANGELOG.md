@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2025-05-19
+
+- Comercio exterior: nuevo corte mensual publicado.
+
 ## 2025-05-12
 
 - Presupuesto 2025: ejecución actualizada a mitad de año.
