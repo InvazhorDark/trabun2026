@@ -37,3 +37,7 @@ Sistema Estadístico Nacional (SEN) y de operaciones estadísticas propias de la
 Las cifras del boletín económico son provisionales durante las cuatro semanas
 siguientes a su publicación y pueden ser revisadas. Las revisiones se registran en
 `CHANGELOG.md`.
+
+## Calendario de publicación
+
+El boletín económico se publica los primeros días hábiles de cada semana; los cortes mensuales, dentro de los diez días siguientes al cierre del mes.
