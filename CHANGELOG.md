@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2025-10-01
+
+- Registro mercantil: publicado el lote 0039.
+
 ## 2025-09-13
 
 - Comercio exterior: nuevo corte mensual publicado.
