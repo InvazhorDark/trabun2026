@@ -2,6 +2,11 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2025-10-03
+
+- Comercio exterior: nuevo corte mensual publicado.
+- Presupuesto 2025: cierre preliminar de ejecución.
+
 ## 2025-10-01
 
 - Registro mercantil: publicado el lote 0039.
