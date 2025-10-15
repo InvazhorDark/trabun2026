@@ -32,68 +32,69 @@ DNE-0030,boletin-economico,boletin-economico/2025/semana-38.csv,semanal,CSV
 DNE-0031,boletin-economico,boletin-economico/2025/semana-40.csv,semanal,CSV
 DNE-0032,boletin-economico,boletin-economico/2025/semana-41.csv,semanal,CSV
 DNE-0033,boletin-economico,boletin-economico/2025/semana-42.csv,semanal,CSV
-DNE-0034,censo,censo/censo-2024-provincias.csv,decenal,CSV
-DNE-0035,comercio-exterior,comercio-exterior/2024-12.csv,mensual,CSV
-DNE-0036,comercio-exterior,comercio-exterior/2025-01.csv,mensual,CSV
-DNE-0037,comercio-exterior,comercio-exterior/2025-02.csv,mensual,CSV
-DNE-0038,comercio-exterior,comercio-exterior/2025-03.csv,mensual,CSV
-DNE-0039,comercio-exterior,comercio-exterior/2025-04.csv,mensual,CSV
-DNE-0040,comercio-exterior,comercio-exterior/2025-05.csv,mensual,CSV
-DNE-0041,comercio-exterior,comercio-exterior/2025-06.csv,mensual,CSV
-DNE-0042,comercio-exterior,comercio-exterior/2025-07.csv,mensual,CSV
-DNE-0043,comercio-exterior,comercio-exterior/2025-08.csv,mensual,CSV
-DNE-0044,comercio-exterior,comercio-exterior/2025-09.csv,mensual,CSV
-DNE-0045,elecciones,elecciones/municipales-2025/resultados.csv,por evento,CSV
-DNE-0046,indicadores,indicadores/2025-01.json,mensual,JSON
-DNE-0047,indicadores,indicadores/2025-02.json,mensual,JSON
-DNE-0048,indicadores,indicadores/2025-03.json,mensual,JSON
-DNE-0049,indicadores,indicadores/2025-04.json,mensual,JSON
-DNE-0050,indicadores,indicadores/2025-05.json,mensual,JSON
-DNE-0051,indicadores,indicadores/2025-06.json,mensual,JSON
-DNE-0052,indicadores,indicadores/2025-07.json,mensual,JSON
-DNE-0053,indicadores,indicadores/2025-08.json,mensual,JSON
-DNE-0054,indicadores,indicadores/2025-09.json,mensual,JSON
-DNE-0055,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
-DNE-0056,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
-DNE-0057,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
-DNE-0058,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
-DNE-0059,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
-DNE-0060,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
-DNE-0061,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
-DNE-0062,registro-mercantil,registro-mercantil/altas/lote-0006.csv,por lote,CSV
-DNE-0063,registro-mercantil,registro-mercantil/altas/lote-0007.csv,por lote,CSV
-DNE-0064,registro-mercantil,registro-mercantil/altas/lote-0008.csv,por lote,CSV
-DNE-0065,registro-mercantil,registro-mercantil/altas/lote-0009.csv,por lote,CSV
-DNE-0066,registro-mercantil,registro-mercantil/altas/lote-0010.csv,por lote,CSV
-DNE-0067,registro-mercantil,registro-mercantil/altas/lote-0011.csv,por lote,CSV
-DNE-0068,registro-mercantil,registro-mercantil/altas/lote-0012.csv,por lote,CSV
-DNE-0069,registro-mercantil,registro-mercantil/altas/lote-0013.csv,por lote,CSV
-DNE-0070,registro-mercantil,registro-mercantil/altas/lote-0014.csv,por lote,CSV
-DNE-0071,registro-mercantil,registro-mercantil/altas/lote-0015.csv,por lote,CSV
-DNE-0072,registro-mercantil,registro-mercantil/altas/lote-0016.csv,por lote,CSV
-DNE-0073,registro-mercantil,registro-mercantil/altas/lote-0017.csv,por lote,CSV
-DNE-0074,registro-mercantil,registro-mercantil/altas/lote-0018.csv,por lote,CSV
-DNE-0075,registro-mercantil,registro-mercantil/altas/lote-0019.csv,por lote,CSV
-DNE-0076,registro-mercantil,registro-mercantil/altas/lote-0020.csv,por lote,CSV
-DNE-0077,registro-mercantil,registro-mercantil/altas/lote-0021.csv,por lote,CSV
-DNE-0078,registro-mercantil,registro-mercantil/altas/lote-0022.csv,por lote,CSV
-DNE-0079,registro-mercantil,registro-mercantil/altas/lote-0023.csv,por lote,CSV
-DNE-0080,registro-mercantil,registro-mercantil/altas/lote-0024.csv,por lote,CSV
-DNE-0081,registro-mercantil,registro-mercantil/altas/lote-0025.csv,por lote,CSV
-DNE-0082,registro-mercantil,registro-mercantil/altas/lote-0026.csv,por lote,CSV
-DNE-0083,registro-mercantil,registro-mercantil/altas/lote-0027.csv,por lote,CSV
-DNE-0084,registro-mercantil,registro-mercantil/altas/lote-0028.csv,por lote,CSV
-DNE-0085,registro-mercantil,registro-mercantil/altas/lote-0029.csv,por lote,CSV
-DNE-0086,registro-mercantil,registro-mercantil/altas/lote-0030.csv,por lote,CSV
-DNE-0087,registro-mercantil,registro-mercantil/altas/lote-0031.csv,por lote,CSV
-DNE-0088,registro-mercantil,registro-mercantil/altas/lote-0032.csv,por lote,CSV
-DNE-0089,registro-mercantil,registro-mercantil/altas/lote-0033.csv,por lote,CSV
-DNE-0090,registro-mercantil,registro-mercantil/altas/lote-0034.csv,por lote,CSV
-DNE-0091,registro-mercantil,registro-mercantil/altas/lote-0035.csv,por lote,CSV
-DNE-0092,registro-mercantil,registro-mercantil/altas/lote-0036.csv,por lote,CSV
-DNE-0093,registro-mercantil,registro-mercantil/altas/lote-0037.csv,por lote,CSV
-DNE-0094,registro-mercantil,registro-mercantil/altas/lote-0038.csv,por lote,CSV
-DNE-0095,registro-mercantil,registro-mercantil/altas/lote-0039.csv,por lote,CSV
-DNE-0096,registro-mercantil,registro-mercantil/altas/lote-0040.csv,por lote,CSV
-DNE-0097,registro-mercantil,registro-mercantil/altas/lote-0041.csv,por lote,CSV
-DNE-0098,registro-mercantil,registro-mercantil/altas/lote-0042.csv,por lote,CSV
+DNE-0034,boletin-economico,boletin-economico/2025/semana-43.csv,semanal,CSV
+DNE-0035,censo,censo/censo-2024-provincias.csv,decenal,CSV
+DNE-0036,comercio-exterior,comercio-exterior/2024-12.csv,mensual,CSV
+DNE-0037,comercio-exterior,comercio-exterior/2025-01.csv,mensual,CSV
+DNE-0038,comercio-exterior,comercio-exterior/2025-02.csv,mensual,CSV
+DNE-0039,comercio-exterior,comercio-exterior/2025-03.csv,mensual,CSV
+DNE-0040,comercio-exterior,comercio-exterior/2025-04.csv,mensual,CSV
+DNE-0041,comercio-exterior,comercio-exterior/2025-05.csv,mensual,CSV
+DNE-0042,comercio-exterior,comercio-exterior/2025-06.csv,mensual,CSV
+DNE-0043,comercio-exterior,comercio-exterior/2025-07.csv,mensual,CSV
+DNE-0044,comercio-exterior,comercio-exterior/2025-08.csv,mensual,CSV
+DNE-0045,comercio-exterior,comercio-exterior/2025-09.csv,mensual,CSV
+DNE-0046,elecciones,elecciones/municipales-2025/resultados.csv,por evento,CSV
+DNE-0047,indicadores,indicadores/2025-01.json,mensual,JSON
+DNE-0048,indicadores,indicadores/2025-02.json,mensual,JSON
+DNE-0049,indicadores,indicadores/2025-03.json,mensual,JSON
+DNE-0050,indicadores,indicadores/2025-04.json,mensual,JSON
+DNE-0051,indicadores,indicadores/2025-05.json,mensual,JSON
+DNE-0052,indicadores,indicadores/2025-06.json,mensual,JSON
+DNE-0053,indicadores,indicadores/2025-07.json,mensual,JSON
+DNE-0054,indicadores,indicadores/2025-08.json,mensual,JSON
+DNE-0055,indicadores,indicadores/2025-09.json,mensual,JSON
+DNE-0056,presupuesto,presupuesto/clasificador-sectores.csv,anual,CSV
+DNE-0057,presupuesto,presupuesto/presupuesto-2025.csv,anual,CSV
+DNE-0058,registro-mercantil,registro-mercantil/altas/lote-0001.csv,por lote,CSV
+DNE-0059,registro-mercantil,registro-mercantil/altas/lote-0002.csv,por lote,CSV
+DNE-0060,registro-mercantil,registro-mercantil/altas/lote-0003.csv,por lote,CSV
+DNE-0061,registro-mercantil,registro-mercantil/altas/lote-0004.csv,por lote,CSV
+DNE-0062,registro-mercantil,registro-mercantil/altas/lote-0005.csv,por lote,CSV
+DNE-0063,registro-mercantil,registro-mercantil/altas/lote-0006.csv,por lote,CSV
+DNE-0064,registro-mercantil,registro-mercantil/altas/lote-0007.csv,por lote,CSV
+DNE-0065,registro-mercantil,registro-mercantil/altas/lote-0008.csv,por lote,CSV
+DNE-0066,registro-mercantil,registro-mercantil/altas/lote-0009.csv,por lote,CSV
+DNE-0067,registro-mercantil,registro-mercantil/altas/lote-0010.csv,por lote,CSV
+DNE-0068,registro-mercantil,registro-mercantil/altas/lote-0011.csv,por lote,CSV
+DNE-0069,registro-mercantil,registro-mercantil/altas/lote-0012.csv,por lote,CSV
+DNE-0070,registro-mercantil,registro-mercantil/altas/lote-0013.csv,por lote,CSV
+DNE-0071,registro-mercantil,registro-mercantil/altas/lote-0014.csv,por lote,CSV
+DNE-0072,registro-mercantil,registro-mercantil/altas/lote-0015.csv,por lote,CSV
+DNE-0073,registro-mercantil,registro-mercantil/altas/lote-0016.csv,por lote,CSV
+DNE-0074,registro-mercantil,registro-mercantil/altas/lote-0017.csv,por lote,CSV
+DNE-0075,registro-mercantil,registro-mercantil/altas/lote-0018.csv,por lote,CSV
+DNE-0076,registro-mercantil,registro-mercantil/altas/lote-0019.csv,por lote,CSV
+DNE-0077,registro-mercantil,registro-mercantil/altas/lote-0020.csv,por lote,CSV
+DNE-0078,registro-mercantil,registro-mercantil/altas/lote-0021.csv,por lote,CSV
+DNE-0079,registro-mercantil,registro-mercantil/altas/lote-0022.csv,por lote,CSV
+DNE-0080,registro-mercantil,registro-mercantil/altas/lote-0023.csv,por lote,CSV
+DNE-0081,registro-mercantil,registro-mercantil/altas/lote-0024.csv,por lote,CSV
+DNE-0082,registro-mercantil,registro-mercantil/altas/lote-0025.csv,por lote,CSV
+DNE-0083,registro-mercantil,registro-mercantil/altas/lote-0026.csv,por lote,CSV
+DNE-0084,registro-mercantil,registro-mercantil/altas/lote-0027.csv,por lote,CSV
+DNE-0085,registro-mercantil,registro-mercantil/altas/lote-0028.csv,por lote,CSV
+DNE-0086,registro-mercantil,registro-mercantil/altas/lote-0029.csv,por lote,CSV
+DNE-0087,registro-mercantil,registro-mercantil/altas/lote-0030.csv,por lote,CSV
+DNE-0088,registro-mercantil,registro-mercantil/altas/lote-0031.csv,por lote,CSV
+DNE-0089,registro-mercantil,registro-mercantil/altas/lote-0032.csv,por lote,CSV
+DNE-0090,registro-mercantil,registro-mercantil/altas/lote-0033.csv,por lote,CSV
+DNE-0091,registro-mercantil,registro-mercantil/altas/lote-0034.csv,por lote,CSV
+DNE-0092,registro-mercantil,registro-mercantil/altas/lote-0035.csv,por lote,CSV
+DNE-0093,registro-mercantil,registro-mercantil/altas/lote-0036.csv,por lote,CSV
+DNE-0094,registro-mercantil,registro-mercantil/altas/lote-0037.csv,por lote,CSV
+DNE-0095,registro-mercantil,registro-mercantil/altas/lote-0038.csv,por lote,CSV
+DNE-0096,registro-mercantil,registro-mercantil/altas/lote-0039.csv,por lote,CSV
+DNE-0097,registro-mercantil,registro-mercantil/altas/lote-0040.csv,por lote,CSV
+DNE-0098,registro-mercantil,registro-mercantil/altas/lote-0041.csv,por lote,CSV
+DNE-0099,registro-mercantil,registro-mercantil/altas/lote-0042.csv,por lote,CSV
