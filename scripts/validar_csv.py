@@ -49,7 +49,7 @@ def main(raiz):
             if errores:
                 con_errores += 1
                 print(f"[ERROR] {ruta}")
-                for e in errores[:10]:
+                for e in errores[:25]:
                     print(f"        {e}")
     print(f"Archivos revisados: {total}; con errores: {con_errores}")
     return 1 if con_errores else 0
