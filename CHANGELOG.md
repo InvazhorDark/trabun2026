@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2026-01-06
+
+- Se incorpora el Presupuesto General 2026.
+
 ## 2026-01-05
 
 - Comercio exterior: nuevo corte mensual publicado.
