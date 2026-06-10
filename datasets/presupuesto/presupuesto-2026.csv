@@ -1,21 +1,21 @@
 sector,entidad,apropiado,comprometido,pagado,fecha_corte
-Educación,Ministerio de Educación,6151245,295949,289420,2026-01-06
-Educación,Universidad Nacional de Aztravia,3669158,170094,143372,2026-01-06
-Educación,Instituto de Formación Técnica,198762,9143,7874,2026-01-06
-Salud,Ministerio de Salud,3610568,180223,136605,2026-01-06
-Salud,Red Hospitalaria Nacional,1452968,75280,67969,2026-01-06
-Salud,Instituto de Salud Pública,4599147,238179,168367,2026-01-06
-Infraestructura,Ministerio de Obras Públicas,4918639,226079,215739,2026-01-06
-Infraestructura,Agencia Nacional de Vías,3655251,156605,120067,2026-01-06
-Infraestructura,Autoridad Portuaria,7555094,378797,315492,2026-01-06
-Defensa,Ministerio de Defensa,374910,16095,11924,2026-01-06
-Defensa,Policía Nacional,2119269,100804,90058,2026-01-06
-Justicia,Ministerio de Justicia,2508688,114519,108865,2026-01-06
-Justicia,Consejo de la Judicatura,2339498,99949,94652,2026-01-06
-Justicia,Instituto Penitenciario,3835448,176289,137556,2026-01-06
-Agricultura,Ministerio de Agricultura,5139659,261650,248552,2026-01-06
-Agricultura,Instituto Agrario de Aztravia,8542484,375145,317557,2026-01-06
-Gobierno,Presidencia de la República,3870613,178135,164811,2026-01-06
-Gobierno,Ministerio del Interior,2161026,110872,89479,2026-01-06
-Gobierno,Dirección Nacional de Estadística,272818,11936,9797,2026-01-06
-Deuda pública,Tesoro Nacional,3013160,139242,97755,2026-01-06
+Educación,Ministerio de Educación,1425369,747927,623432,2026-06-10
+Educación,Universidad Nacional de Aztravia,4343181,2083906,1770161,2026-06-10
+Educación,Instituto de Formación Técnica,5163048,2691435,2019330,2026-06-10
+Salud,Ministerio de Salud,9684935,4870644,4499658,2026-06-10
+Salud,Red Hospitalaria Nacional,9718241,4353943,3644845,2026-06-10
+Salud,Instituto de Salud Pública,9679262,5271004,4254521,2026-06-10
+Infraestructura,Ministerio de Obras Públicas,5260535,2833022,2573060,2026-06-10
+Infraestructura,Agencia Nacional de Vías,985204,514522,375970,2026-06-10
+Infraestructura,Autoridad Portuaria,1161249,583202,428769,2026-06-10
+Defensa,Ministerio de Defensa,1025186,557004,539003,2026-06-10
+Defensa,Policía Nacional,2363346,1074603,774589,2026-06-10
+Justicia,Ministerio de Justicia,2595467,1195310,1041092,2026-06-10
+Justicia,Consejo de la Judicatura,5072150,2394081,2306646,2026-06-10
+Justicia,Instituto Penitenciario,8362241,4205559,3290834,2026-06-10
+Agricultura,Ministerio de Agricultura,9083690,4707490,3394015,2026-06-10
+Agricultura,Instituto Agrario de Aztravia,6433305,3213828,2528228,2026-06-10
+Gobierno,Presidencia de la República,7296291,3638740,2889877,2026-06-10
+Gobierno,Ministerio del Interior,4708757,2360117,2050810,2026-06-10
+Gobierno,Dirección Nacional de Estadística,1207804,581412,528368,2026-06-10
+Deuda pública,Tesoro Nacional,6711157,3187713,2295719,2026-06-10

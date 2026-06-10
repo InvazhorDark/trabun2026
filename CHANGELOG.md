@@ -2,6 +2,11 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2026-06-10
+
+- Comercio exterior: nuevo corte mensual publicado.
+- Presupuesto 2026: ejecución a mitad de año.
+
 ## 2026-05-24
 
 - Comercio exterior: nuevo corte mensual publicado.
