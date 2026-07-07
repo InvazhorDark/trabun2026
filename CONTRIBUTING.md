@@ -28,3 +28,7 @@ Antes de enviar cambios ejecute:
 ```bash
 python3 scripts/validar_csv.py datasets/
 ```
+
+## Canal de contacto
+
+Para solicitudes de nuevos conjuntos escriba a datosabiertos@dne-aztravia.org indicando entidad, periodicidad y variables.
