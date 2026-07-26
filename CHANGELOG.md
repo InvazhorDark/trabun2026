@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2026-07-26
+
+- Registro mercantil: publicado el lote 0080.
+
 ## 2026-07-19
 
 - Comercio exterior: nuevo corte mensual publicado.
