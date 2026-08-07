@@ -48,4 +48,4 @@ Se permite su uso, redistribución y transformación citando la fuente: *DNE –
 
 datosabiertos@dne-aztravia.org · Av. de la República 1240, San Teodoro.
 
-Última revisión general de este documento: 02/03/2026.
+Última revisión general de este documento: 07/08/2026.
