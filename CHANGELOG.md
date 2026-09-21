@@ -2,6 +2,10 @@
 
 Formato basado en versiones por fecha. Las entradas más recientes aparecen primero.
 
+## 2026-09-21
+
+- Comercio exterior: nuevo corte mensual publicado.
+
 ## 2026-09-01
 
 - Comercio exterior: nuevo corte mensual publicado.
